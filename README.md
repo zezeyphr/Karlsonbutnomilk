@@ -25,14 +25,17 @@ I am not at all a professional and nor do I claim to be, most projects will be s
 
 ### Skills
 **Languages**
+
 Python, HTML, Markdown
 
 <small>I am not fluent in these but I am compitent.</small>
 
 **Progams**
+
 Unity, VRChat Creator Companion
 
 **Misc. Skills**
+
 VRC Avatar Optimization, Basic Debugging
 </div>
 
