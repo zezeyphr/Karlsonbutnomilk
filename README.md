@@ -7,7 +7,7 @@ He/Him
 </div>
 <div align="Center">
 
-### A Little About Me 
+## A Little About Me 
 
 </div>
 
@@ -15,7 +15,7 @@ I am a coding newbie and with interest in cybersecurity and software engineering
 
 <div align="Center">
 
-### Things to Note
+## Things to Note
 
 </div>
 
@@ -23,12 +23,14 @@ I am not at all a professional and nor do I claim to be, most projects will be s
 
 <div align="Center">
 
-### Skills
-**Languages**
+## Skills
+### **Languages***
 
-Python, HTML, Markdown
+Python, HTML, Markdown, Bash, CMD, Windows PowerShell
 
-<small>I am not fluent in these but I am compitent.</small>
+<small> I am not fluent in these but I am competent. </small>
+
+<small>*I am also attempting (Albeit painstakingly) attempting to learn Rust as well</small>
 
 **Progams**
 
@@ -39,5 +41,5 @@ Unity, VRChat Creator Companion
 VRC Avatar Optimization, Basic Debugging
 </div>
 
-### Contact me!
+## Contact me!
 Need to message me? My discord is loved_or_hated and my timezone is GMT-5
