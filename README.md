@@ -32,11 +32,11 @@ Python, HTML, Markdown, Bash, CMD, Windows PowerShell
 
 <small>*I am also attempting (Albeit painstakingly) attempting to learn Rust as well</small>
 
-**Progams**
+### **Progams**
 
 Unity, VRChat Creator Companion
 
-**Misc. Skills**
+### **Misc. Skills**
 
 VRC Avatar Optimization, Basic Debugging
 </div>
